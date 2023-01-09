@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kyd462
-- 👀 I’m interested in ... Games, Comics, Illustration, Art, Music, and making things.
-- 🌱 I’m currently learning ... Intro to Computer Science and Intro to Game Programming through CS50X
-- 💞️ I’m looking to collaborate on ... I'm not sure yet.
+- 👋 Hi, I’m Mike
+- 👀 I’m interested in ... How things work; brains, machines, the universe, all of it! 
+- 🌱 I’m currently learning ... Computational Neuroscience
+- 💞️ I’m looking to collaborate on ... Studies! I have so much to learn!
 - 📫 How to reach me ... Here, I suppose!
 
 <!---
