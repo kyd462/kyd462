@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike
+- 👋 Hi, I’m Em
 - 👀 I’m interested in ... How things work; brains, machines, the universe, all of it! 
 - 🌱 I’m currently learning ... Computational Neuroscience
 - 💞️ I’m looking to collaborate on ... Studies! I have so much to learn!
